@@ -1,0 +1,13 @@
+{
+  "name": "task02-rest-api",
+  "version": "1.0.0",
+  "description": "Simple REST API with Express: CRUD over a single 'books' resource",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
